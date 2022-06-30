@@ -111,6 +111,12 @@ background-color: hsl(0, 100%, 74%);
         margin-left: 40px;
     }
 
+    #submit {
+    color: white;
+    background: hsl(154, 59%, 51%);
+    cursor: pointer;
+        margin-left:50px;
+}
     #terms {
         margin-left: 50px;
         margin-right: 50px;
